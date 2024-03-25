@@ -63,7 +63,7 @@ export default function LoginForm({
           </Form>
           <div className="text-center mt-1 gap-2 flex justify-center">
             <a className="text-interactive" href={registerUrl}>
-              {_('Create an account')}
+              {_('Create an saccount')}
             </a>
             <a href={forgotPasswordUrl}>{_('Forgot your password?')}</a>
           </div>

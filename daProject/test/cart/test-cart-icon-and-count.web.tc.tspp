@@ -1,0 +1,12 @@
+>>testDataType: undefined
+>>summary: Verify the Shopping Cart icon visibility and real-time item count update
+>>tags: 
+>>feature: cart
+
+
+^^detailed_steps
+Navigate to Evershop homepage --> Verify that the Shopping Cart icon is visible in the upper section of the homepage
+Add an item to the cart --> Verify that the item count on the Shopping Cart icon has incremented by one
+^^
+
+
